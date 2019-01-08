@@ -1,5 +1,4 @@
 # paramiko
-conexion ssh
 
 <p align="center">
 <img src="https://github.com/tronicanet/paramiko/blob/master/ssh-key.jpg"
