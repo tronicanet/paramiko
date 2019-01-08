@@ -10,7 +10,7 @@
 
 ejemplo1
 
-```
+```python
 from paramiko import client
  
 class ssh:
